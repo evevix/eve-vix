@@ -44,4 +44,5 @@
   * [6.深渊扒手攻略](d6/6.md)
 * [第七章 游戏工具使用指南](d7/README.md)
   * [1.开黑啦语音工具](d7/1.md)
-* [第八章 常用网址与频道](d8.md)
+* [第八章 常用网址与频道](d8/README.md)
+  * [It a test page](d8/it-a-test-page.md)
