@@ -12,7 +12,7 @@
 
 任务的目标很简单，我们需要去到一个星系（在任务日志里有黄字链接，右击设为终点，大多是在本星系）跳到任务空间做任务。
 
-接受任务以后，我们离开空间站，来到指定的星系：右击太空空白处，找到任务空间跃迁过去。 
+接受任务以后，我们离开空间站，来到指定的星系：右击太空空白处，找到任务空间跃迁过去。&#x20;
 
 ![](../../.gitbook/assets/dXkdCeKyIUr8mt-PIG4GKg.png)
 
@@ -28,7 +28,7 @@
 
 完成任务后会奖励我们一艘船，我们这时候需要把原来驾驶的新手船拆掉上面的武器 装备，安装到新的舰船上。
 
-第一步组装新舰船： ![](../../.gitbook/assets/hF93F\_5mTxOr8dQS3xKb8g.png) 
+第一步组装新舰船： ![](../../.gitbook/assets/hF93F\_5mTxOr8dQS3xKb8g.png)&#x20;
 
 第二步激活新舰船 ![](../../.gitbook/assets/vCnFh7HoOr53g87Csmi-7A.png)
 
@@ -55,11 +55,11 @@
 
 ![](../../.gitbook/assets/Pb0l3Ffqy1AIgycLfGGLuA.png)
 
-我们右击这个星门，打开加力接近就可以了。当本地有提示 ![](../../.gitbook/assets/JQFOM3ysU6TMLwM1p\_9fOw.png) 时，就可以回去交任务.
+我们右击这个星门，打开加力接近就可以了。当本地有提示 <img src="../../.gitbook/assets/JQFOM3ysU6TMLwM1p_9fOw.png" alt="" data-size="original"> 时，就可以回去交任务.
 
 任务的形式之一侦察：接近或进任务空间到达指定位置就可以完成。
 
-### 5.飞行员的财源5/10 
+### 5.飞行员的财源5/10&#x20;
 
 ![](../../.gitbook/assets/M9L0nvKxxLanULhMUyx90w.png)
 
@@ -67,24 +67,24 @@
 
 ### 6.飞行员的财源6/10
 
-![](../../.gitbook/assets/7LZrQ_Q4Q-8hmbwxaBPsow.png)
+![](../../.gitbook/assets/7LZrQ\_Q4Q-8hmbwxaBPsow.png)
 
 ![](../../.gitbook/assets/lya-sOB-0f\_2j2ulMNDjeg.png)
 
 这个任务我们将接触两个新的东西：
 
 1. 加速轨道，加速轨道是很多任务或远征空间存在的一个东西，想要进入深层空间，必须要经过加速轨道，进到任务空间激活加速轨道我们才可以进入下一层，否则你将找不到任务目标。
-2. 目标建筑：**一个新的任务形式：进入任务空间》》击毁目标建筑**。正常来讲我们新人的总览里应该是有建筑的，但不排除有些新人总览被修改过，找不到哨站，这个时候我们需要右击总览左上角的四条横杠，打开总览设置 
+2. 目标建筑：**一个新的任务形式：进入任务空间》》击毁目标建筑**。正常来讲我们新人的总览里应该是有建筑的，但不排除有些新人总览被修改过，找不到哨站，这个时候我们需要右击总览左上角的四条横杠，打开总览设置&#x20;
 
 ![](../../.gitbook/assets/vUDIJcD7ncAPACX1IpnKrw.png)
 
-在预设标签的（空间实体）里找到（大型可撞击建筑）把任务建筑类别添加进去。 
+在预设标签的（空间实体）里找到（大型可撞击建筑）把任务建筑类别添加进去。&#x20;
 
 ![](../../.gitbook/assets/ZvcEhC4eWmkiJu4tvhws4Q.png)
 
-有时候任务空间的可撞击建筑很多，我们可以右击总览里的这些建筑 ![](../../.gitbook/assets/okJNB05tVofLlv3EBNIZ_w.png) 把这些建筑从总览里去掉，需要的时候再调出来。
+有时候任务空间的可撞击建筑很多，我们可以右击总览里的这些建筑 ![](../../.gitbook/assets/okJNB05tVofLlv3EBNIZ\_w.png) 把这些建筑从总览里去掉，需要的时候再调出来。
 
-![](../../.gitbook/assets/C0GpmkxNpIxvV_IbQ_ETig.png)
+![](../../.gitbook/assets/C0GpmkxNpIxvV\_IbQ\_ETig.png)
 
 找到它击毁掉就可以完成任务了。
 
@@ -96,11 +96,11 @@
 
 很简单的任务进去清怪 完成任务。
 
-任务流程虽然简单，但怪不少，正常来讲会把你打进装甲，回到空间站后我们需要对舰船进行维修再进行下一个任务： 
+任务流程虽然简单，但怪不少，正常来讲会把你打进装甲，回到空间站后我们需要对舰船进行维修再进行下一个任务：&#x20;
 
-![](../../.gitbook/assets/4o9Md9rr2bZj_wD1NoYczQ.png)
+![](../../.gitbook/assets/4o9Md9rr2bZj\_wD1NoYczQ.png)
 
-![](../../.gitbook/assets/McTKRiGXVX_phQttIelU0A.png)
+![](../../.gitbook/assets/McTKRiGXVX\_phQttIelU0A.png)
 
 ### 8.飞行员的财源8/10
 

@@ -14,7 +14,7 @@
 
 ![](../../.gitbook/assets/E3-1IZjjQjz-Tnnp-rR1VA.png)
 
-![](../../.gitbook/assets/RcxhUsZp_oNjNkQWQ0jFhg.png)
+![](../../.gitbook/assets/RcxhUsZp\_oNjNkQWQ0jFhg.png)
 
 找到“异常空间训练场”跃迁进去，找到一个  拿到任务物品回站交付任务。
 
@@ -24,12 +24,12 @@
 
 ### 2.空间信号2/5
 
-![](../../.gitbook/assets/vXuuWv_Qvf8aW_KiAH5JwA.png)
+![](../../.gitbook/assets/vXuuWv\_Qvf8aW\_KiAH5JwA.png)
 
 这个任务是一个指引性任务，我们按着代理人的指示一步步走就是了
 
 1. 进入任务空间经过加速轨道在勘探物品里拿到
-2.  ![](../../.gitbook/assets/iU5VYwImd2eXjpyZ8f2zVA.png) 
+2. &#x20;<img src="../../.gitbook/assets/iU5VYwImd2eXjpyZ8f2zVA.png" alt="" data-size="original">&#x20;
 3. 经过三层轨道，分别见识一下数据、遗迹、气云信号的场景（卵用，连个箱子也没有）
 
 ### 3.数据地点扫描3/5
@@ -42,7 +42,7 @@
 
 ![](../../.gitbook/assets/Z77CWx5Gbgzqi9rzDHX3Vw.png)
 
-通过拖动探针的移动手柄，移动一下探针覆盖红色的信号点击分析 ![](../../.gitbook/assets/ajFNA9ewHu350uu4mtWryw.png) 
+通过拖动探针的移动手柄，移动一下探针覆盖红色的信号点击分析 ![](../../.gitbook/assets/ajFNA9ewHu350uu4mtWryw.png)&#x20;
 
 ![](../../.gitbook/assets/GkWOBprMhU0TN0jzNsWQ6A.png)
 
@@ -56,7 +56,7 @@
 
 我们得到想要的数据信号 ![](../../.gitbook/assets/S7Jao0OfB1dw6AgV2tnvag.png) 跃迁过去拿到任务物品。如果扫描强度仍然不到100%，需要大家重复以上步骤直到强度到100%为止。
 
-到达任务空间后，我们需要用数据分析仪才能拿到任务物品（如何使用参考[**商业教程4/10**](shang-ye.md#4-shou-zhi-ping-heng-4-10)） 
+到达任务空间后，我们需要用数据分析仪才能拿到任务物品（如何使用参考[**商业教程4/10**](shang-ye.md#4-shou-zhi-ping-heng-4-10)）&#x20;
 
 ![](../../.gitbook/assets/Rx93kevp1nCpHHIdj39VHA.png)
 
@@ -66,7 +66,7 @@
 
 ![](../../.gitbook/assets/ZJnUfJjaB\_38P3FjPDkwNw.png)
 
-任务流程和数据地点扫描是一样的，只不过要找的是遗迹训练地点，用的破译工具是遗迹分析仪。 
+任务流程和数据地点扫描是一样的，只不过要找的是遗迹训练地点，用的破译工具是遗迹分析仪。&#x20;
 
 ![](../../.gitbook/assets/HiT8Z-MXVbN0kSmsXMrgnw.png)
 
@@ -74,7 +74,7 @@
 
 ![](../../.gitbook/assets/UlejnyFcwyaamMy0Se6-Dg.png)
 
-任务流程和数据地点扫描是一样的。找到气云训练地点，拿到任务物品交任务（记得带代理人给你的通行证） 
+任务流程和数据地点扫描是一样的。找到气云训练地点，拿到任务物品交任务（记得带代理人给你的通行证）&#x20;
 
 ![](../../.gitbook/assets/5\_C0BgTegGnlVGyXekWTCQ.png)
 
