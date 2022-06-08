@@ -3,7 +3,7 @@
 * [EVE 欧服维新公会](README.md)
 * [加入我们](jrwm/README.md)
   * [加入公会流程](jrwm/1.md)
-  * [维新规章制度](jrwm/wei-xin-gui-zhang-zhi-du.md)
+  * [规章制度](jrwm/wei-xin-gui-zhang-zhi-du.md)
   * [加入高安军团](jrwm/3.md)
   * [加入主军团](jrwm/4.md)
   * [加入教导队军团](jrwm/5.md)
