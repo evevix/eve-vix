@@ -22,13 +22,13 @@
 
 开上任务给的船以后，可以的话 给他上个保险。
 
- ![](../../.gitbook/assets/OQA0a9iobgJkt5CPkkxDBw.png) ![](../../.gitbook/assets/UW46t\_1tzk6NKKmn0GNoyA.png)
+![](../../.gitbook/assets/OQA0a9iobgJkt5CPkkxDBw.png) ![](../../.gitbook/assets/UW46t\_1tzk6NKKmn0GNoyA.png)
 
 ### 3.专注的精神3/10
 
-![](<../../.gitbook/assets/p6GhPNwcUK8QQbi4uSAIxw (1).png>)
+![](../../.gitbook/assets/p6GhPNwcUK8QQbi4uSAIxw.png)
 
-任务会给你一个民用跃迁干扰器， ![](<../../.gitbook/assets/YU5-hXgF2214Psm9LyTyeA (1).png>) 这个装备是一个中槽装备，你装备上以后到任务空间对目标使用可以防止目标跃迁逃走。这个任务主要教给大家在PVP中，如何把敌人留下来和你进行战斗，没有跃迁干扰装置的话，你的敌人会在需要逃走的时候跳走，你的战斗将毫无意义。
+任务会给你一个民用跃迁干扰器， ![](../../.gitbook/assets/YU5-hXgF2214Psm9LyTyeA.png) 这个装备是一个中槽装备，你装备上以后到任务空间对目标使用可以防止目标跃迁逃走。这个任务主要教给大家在PVP中，如何把敌人留下来和你进行战斗，没有跃迁干扰装置的话，你的敌人会在需要逃走的时候跳走，你的战斗将毫无意义。
 
 ### 4.患难朋友4/10
 
@@ -36,9 +36,7 @@
 
 这个任务会给你一个远程护盾回充增量器， ![](../../.gitbook/assets/bI0n3NWK1FY3zyBLIRuTAw.png) 这个任务主要教给你如何遥修你的队友（奶妈）
 
-在正常的PVP中，奶妈可以很大幅度提高整体舰队的战斗力。 ![](../../.gitbook/assets/85-\_k1GArAeoN1phQ_z4Sw.png) 区别于其他网游，EVE里的奶妈有一个很显著的特点就是“医者不能自医”，大家懂吧，哈哈哈。
-
-
+在正常的PVP中，奶妈可以很大幅度提高整体舰队的战斗力。 ![](../../.gitbook/assets/85-\_k1GArAeoN1phQ\_z4Sw.png) 区别于其他网游，EVE里的奶妈有一个很显著的特点就是“医者不能自医”，大家懂吧，哈哈哈。
 
 ### 5.立场5/10
 
@@ -60,7 +58,7 @@
 
 ### 8.和平主义者8/10
 
-![](../../.gitbook/assets/s_qZPjZNCjeua1ytZGXAqg.png)
+![](../../.gitbook/assets/s\_qZPjZNCjeua1ytZGXAqg.png)
 
 非常简单的接近建筑，拿取任务物品的任务。但需要大家注意任务说明
 
@@ -70,7 +68,7 @@
 
 ### 9.粘住敌人9/10
 
-![](../../.gitbook/assets/L-3GpvDfEuM_JcZAVQB_CQ.png)
+![](../../.gitbook/assets/L-3GpvDfEuM\_JcZAVQB\_CQ.png)
 
 这个任务会给大家一个民用停滞光束，任务日志里有关于停滞缠绕光束的说明，我就是再啰嗦了。任务不需要把目标击杀掉，你只需要把网子扣到目标脸上就可以了。
 
