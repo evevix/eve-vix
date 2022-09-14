@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://mohist-alliance.gitee.io'
-baseurl:          '/docs'
+url:              'https://mohist-alliance.gitee.io/docs'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
